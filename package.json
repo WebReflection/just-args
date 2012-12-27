@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "name": "just-args",
+  "description": "really, nothing special, just a cleaned up process.argv",
+  "homepage": "https://github.com/WebReflection/just-args",
+  "main": "./src/just-args.js",
+  "keywords": ["process", "argv", "arguments", "clean"],
+  "author": {
+    "name": "Andrea Giammarchi",
+    "web": "http://webreflection.blogspot.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/WebReflection/just-args.git"
+  }
+}
